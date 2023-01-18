@@ -1,0 +1,27 @@
+_repo: A-voice-from-Waterloo-A-history-of-the-battle-fought-on-the-18th-June-1815_69670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cotton, Edward
+    gutenberg_agent_id: '55367'
+    url: http://www.gutenberg.org/2009/agents/55367
+description: ''
+gutenberg_issued: '2022-12-31'
+identifiers:
+  gutenberg: '69670'
+language: en
+pgterms:marc904: https://archive.org/details/voicefromwaterlo00cott/page/n19/mode/2up
+pgterms:marc905: 20210225033747cotton
+pgterms:marc906: '1877'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: B. Green,1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A voice from Waterloo: A history of the battle fought on the 18th June, 1815'
+url: http://www.gutenberg.org/ebooks/69670
