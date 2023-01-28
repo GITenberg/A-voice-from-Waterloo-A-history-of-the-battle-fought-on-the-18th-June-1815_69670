@@ -1,11 +1,16 @@
 _repo: A-voice-from-Waterloo-A-history-of-the-battle-fought-on-the-18th-June-1815_69670
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69670-h/images/cover.jpg
 creator:
   author:
     agent_name: Cotton, Edward
     gutenberg_agent_id: '55367'
     url: http://www.gutenberg.org/2009/agents/55367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69670#A-voice-from-Waterloo-A-history-of-the-battle-fought-on-the-18th-June-1815
 gutenberg_issued: '2022-12-31'
 identifiers:
   gutenberg: '69670'
